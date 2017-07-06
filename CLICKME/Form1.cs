@@ -27,21 +27,17 @@ namespace CLICKME
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("MASTER COMMIT !");
-            MessageBox.Show("Hadouken !");
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("puta ina!");
-            MessageBox.Show("puta ina!");
-            MessageBox.Show("puta ina!");
+           
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("shit!");
-            MessageBox.Show("Hard");
+            
         }
     }
 }
