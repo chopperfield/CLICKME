@@ -28,12 +28,6 @@ namespace CLICKME
         private void button2_Click(object sender, EventArgs e)
         {
             MessageBox.Show("MASTER COMMIT !");
-            MessageBox.Show("Hadouken !");
-
-
-            MessageBox.Show("MASTER COMMIT !");
-            MessageBox.Show("MASTER COMMIT !");
-
         }
 
         private void button3_Click(object sender, EventArgs e)
