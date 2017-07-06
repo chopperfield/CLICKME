@@ -22,7 +22,7 @@ namespace CLICKME
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("WELCOME !");
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -37,7 +37,7 @@ namespace CLICKME
 
         private void button4_Click(object sender, EventArgs e)
         {
-            
+            MessageBox.Show("Baka!");
         }
     }
 }
