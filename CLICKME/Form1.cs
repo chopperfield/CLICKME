@@ -34,5 +34,11 @@ namespace CLICKME
         {
             MessageBox.Show("Update branch !");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("add button 4 !");
+
+        }
     }
 }
