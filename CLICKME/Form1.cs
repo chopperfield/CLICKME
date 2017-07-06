@@ -37,7 +37,7 @@ namespace CLICKME
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("add button 4 !");
+            MessageBox.Show("shit!");
 
         }
     }
