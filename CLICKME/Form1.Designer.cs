@@ -35,7 +35,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(12, 12);
+            this.button1.Location = new System.Drawing.Point(134, 33);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(136, 51);
             this.button1.TabIndex = 0;
@@ -46,12 +46,13 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(154, 12);
+            this.button2.Location = new System.Drawing.Point(318, 33);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(136, 51);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 

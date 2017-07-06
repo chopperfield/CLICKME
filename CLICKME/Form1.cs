@@ -19,7 +19,12 @@ namespace CLICKME
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("WELCOME ");
+            MessageBox.Show("WELCOME !");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("MASTER COMMIT !");
         }
     }
 }
