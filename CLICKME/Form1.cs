@@ -32,17 +32,7 @@ namespace CLICKME
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Shiok !");
-        }
-        private void button4_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("XA");
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("vcb");
-
+            MessageBox.Show("Update branch !");
         }
     }
 }
